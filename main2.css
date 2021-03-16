@@ -1,33 +1,82 @@
 .Nkocka1{
-
+    background-color: rgb(52, 145, 147) ;
+    height: 40%;
+    width: 24%;
+    margin-top: 3%;
+    margin-left: 3%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Kkocka1{
+    background-color: white;
+    height:50%;
+    width:50%;
+    margin-top:22%;
+    margin-left:22%;
+    display: inline-block;
+    position: absolute;
 
 }
 
 .Nkocka2{
-
+    background-color: rgb(52, 145, 147) ;
+    height: 40%;
+    width: 24%;
+    margin-top: 3%;
+    margin-left: 31%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Kkocka2{
-
+    background-color: white;
+    height:50%;
+    width:50%;
+    margin-top:22%;
+    margin-left:22%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Nkocka3{
-
+    background-color: rgb(52, 145, 147) ;
+    height: 40%;
+    width: 24%;
+    margin-top: 27%;
+    margin-left: 3%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Kkocka3{
-
+    background-color: white;
+    height:50%;
+    width:50%;
+    margin-top:22%;
+    margin-left:22%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Nkocka4{
-
+    background-color: rgb(52, 145, 147) ;
+    height: 40%;
+    width: 24%;
+    margin-top: 27%;
+    margin-left: 31%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Kkocka4{
-    
+    background-color: white;
+    height:50%;
+    width:50%;
+    margin-top:22%;
+    margin-left:22%;
+    display: inline-block;
+    position: absolute;
 }
 
 .JobbNkocka{
@@ -39,5 +88,5 @@
 }
 
 .Teglalap{
-    
+
 }
