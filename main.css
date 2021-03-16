@@ -3,26 +3,136 @@
     height: 15%;
     width: 93%;
     margin: 3%;
-    display: block;
+    display: inline-block;
     position: absolute;
 }
 
-.kocka{
+.kockateglalap{
     background-color: rgb(147, 106, 52);
     height: 50%;
     width: 4%;
     margin: 2.5%;
-    display: block;
+    display: inline-block;
     position: absolute;
 }
 
 .bal-also{
     background-color: white;
     height:63%;
-    width:26%;
+    width:27%;
     margin-top:15%;
     margin-left: 3%;
     margin-bottom: 3%;
     display:inline-block;
+    position: absolute;
+}
+
+.jobbkocka{
+    background-color: white;
+    height:63%;
+    width: 62%;
+    margin-top: 15%;
+    margin-left: 34%;
+    display: inline-block;
+    position: absolute;
+}
+
+.kocka1{
+    background-color: rgb(147, 106, 52);
+    height: 15%;
+    width: 9%;
+    margin-top: 2%;
+    margin-left:2%;
+    display: inline-block;
+    position: absolute;
+}
+
+.teglalap1{
+    background-color:  rgb(147, 106, 52) ;
+    height: 15%;
+    width: 85%;
+    margin-top:2%;
+    margin-left:13%;
+    display:block;
+    position: absolute;
+}
+
+.kocka2{
+    background-color: rgb(147, 106, 52);
+    height: 15%;
+    width: 9%;
+    margin-top:12%;
+    margin-left:2%;
+    display: inline-block;
+    position: absolute;
+}
+
+.teglalap2{
+    background-color:  rgb(147, 106, 52) ;
+    height: 15%;
+    width: 85%;
+    margin-top:12%;
+    margin-left:13%;
+    display:block;
+    position: absolute;
+}
+
+.kocka3{
+    background-color: rgb(147, 106, 52);
+    height: 15%;
+    width: 9%;
+    margin-top:22%;
+    margin-left:2%;
+    display: inline-block;
+    position: absolute;
+}
+
+.teglalap3{
+    background-color:  rgb(147, 106, 52) ;
+    height: 15%;
+    width: 85%;
+    margin-top:22%;
+    margin-left:13%;
+    display:block;
+    position: absolute;
+}
+
+.kocka4{
+    background-color: rgb(147, 106, 52);
+    height: 15%;
+    width: 9%;
+    margin-top:32%;
+    margin-left:2%;
+    display: inline-block;
+    position: absolute;
+}
+
+.teglalap4{
+    background-color:  rgb(147, 106, 52) ;
+    height: 15%;
+    width: 85%;
+    margin-top:32%;
+    margin-left:13%;
+    display:block;
+    position: absolute;
+}
+
+.kocka5{
+    background-color: rgb(147, 106, 52);
+    height: 15%;
+    width: 9%;
+    margin-top:42%;
+    margin-left:2%;
+    display: inline-block;
+    position: absolute;
+}
+
+.teglalap5{
+    background-color:  rgb(147, 106, 52) ;
+    height: 15%;
+    width: 85%;
+    margin-top:42%;
+    margin-left:13%;
+    display:block;
     position: absolute;
 }
