@@ -24,6 +24,42 @@
     position: absolute;
 }
 
-.Zteglalap{
+.Zteglalap1{
+    background-color: rgb(52, 147, 108);
+    height: 7.14%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 8%;
+    display: inline-block;
+    position: absolute;
+}
 
+.Zteglalap2{
+    background-color: rgb(52, 147, 108);
+    height: 7.14%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 29.42%;
+    display: inline-block;
+    position: absolute;
+}
+
+.Zteglalap3{
+    background-color: rgb(52, 147, 108);
+    height: 7.14%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50.84%;
+    display: inline-block;
+    position: absolute;
+}
+
+.Zteglalap4{
+    background-color: rgb(52, 147, 108);
+    height: 7.14%;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 72.26%;
+    display: inline-block;
+    position: absolute;
 }
