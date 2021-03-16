@@ -80,11 +80,24 @@
 }
 
 .JobbNkocka{
-
+    background-color: rgb(52, 145, 147) ;
+    height: 65%;
+    width: 35%;
+    margin-top: 3%;
+    margin-left: 60%;
+    display: inline-block;
+    position: absolute;
 }
 
-.JobbKkocka{
 
+.JobbKkocka{
+    background-color: white;
+    height:50%;
+    width:50%;
+    margin-top:22%;
+    margin-left:22%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Teglalap{
