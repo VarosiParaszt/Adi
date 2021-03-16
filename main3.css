@@ -1,13 +1,27 @@
 .zold{
-
+    background-color: rgb(52, 147, 108);
+    height: 100%;
+    width: 50%;
+    display: inline-block;
+    position: absolute;
 }
 
 .feher{
-
+    background-color: #fff;
+    height: 100%;
+    width: 50%;
+    margin-left: 50%;
+    display: inline-block;
+    position: absolute;
 }
 
 .kek{
-
+    background-color: rgb(31, 33, 103);
+    height: 80%;
+    width: 80%;
+    margin: 10%;
+    display: inline-block;
+    position: absolute;
 }
 
 .Zteglalap{
