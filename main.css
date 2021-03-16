@@ -1,10 +1,17 @@
 .teglalap{
     background-color: rgb(255, 255, 255);
     height: 15%;
-    width: 94%;
-    margin-top: 3%;
-    margin-left: 3%;
-    margin-right: 3%;
+    width: 93%;
+    margin: 3%;
+    display: inline-block;
+    position: absolute;
+}
+
+.kocka{
+    background-color: rgb(147, 106, 52);
+    height: 50%;
+    width: 4%;
+    margin: 2.5%;
     display: block;
     position: absolute;
 }
