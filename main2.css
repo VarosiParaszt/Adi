@@ -101,5 +101,11 @@
 }
 
 .Teglalap{
-
+    background-color: rgb(52, 145, 147) ;
+    height: 15%;
+    width: 35%;
+    margin-top: 40%;
+    margin-left: 60%;
+    display: inline-block;
+    position: absolute;
 }
