@@ -1,0 +1,10 @@
+.teglalap{
+    background-color: rgb(255, 255, 255);
+    height: 15%;
+    width: 94%;
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: block;
+    position: absolute;
+}
